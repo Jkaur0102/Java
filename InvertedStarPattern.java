@@ -1,3 +1,13 @@
+/* Inverted Star Pattern
+Example: for n=4;
+            ****
+            ***
+            **
+            *
+
+*/
+
+
 import java.util.Scanner;
 
 public class InvertedStarPattern {
