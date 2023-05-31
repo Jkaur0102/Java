@@ -1,3 +1,7 @@
+/*Formula of nCr is 
+nCr=n!/((n-r)!*r!)
+where a! is a factorial=a*(a-1)*(a-2)*.......*1
+*/
 import java.util.Scanner;
 
 public class Binomial_Coefficient {
@@ -10,10 +14,10 @@ public class Binomial_Coefficient {
         }
     }
     public static int nCr(int n,int r){
-        int factorial_of_n=fact(n);
-        int factorial_of_r=fact(r);
-        int factorial_of_nr=fact(n-r);
-        int Coeff=((factorial_of_n)/(factorial_of_r*factorial_of_nr));
+        int factorial_of_n=fact(n); // factorial of n
+        int factorial_of_r=fact(r); // factorial of r
+        int factorial_of_nr=fact(n-r); // factorial of (n-r)
+        int Coeff=((factorial_of_n)/(factorial_of_r*factorial_of_nr)); // value of nCr
         return Coeff;
     }
     public static void main(String[] args) {
