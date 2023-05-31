@@ -1,3 +1,7 @@
+/*
+a! is factorial of a = a*(a-1)*(a-2)*.......*1
+*/
+
 import java.util.Scanner;
 
 public class Factorial {
