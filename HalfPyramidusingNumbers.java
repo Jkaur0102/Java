@@ -1,4 +1,4 @@
-/* Half Pyramid
+/* Half Pyramid using Numbers
 Example: for n=4
             1
             12
@@ -7,7 +7,7 @@ Example: for n=4
 */
 import java.util.Scanner;
 
-public class HalfPyramid {
+public class HalfPyramidusingNumbers {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         int n=sc.nextInt();
