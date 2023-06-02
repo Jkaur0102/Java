@@ -1,3 +1,12 @@
+/* Hollow Rectangle Pattern
+For example: for rows=4 and columns=5
+                    *****
+                    *   *
+                    *   *
+                    *****
+*/
+
+
 import java.util.Scanner;
 
 public class HollowRectangle {
