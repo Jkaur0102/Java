@@ -1,3 +1,14 @@
+/* Diamond Pattern
+For example: for rows=4
+                   *
+                  ***
+                 *****
+                *******
+                 *****
+                  ***
+                   *
+                       
+*/
 import java.util.Scanner;
 
 public class DiamondPattern {
