@@ -1,4 +1,4 @@
-/* Inverted Half Pyramid with Numbers Pattern
+/* Floyd Triangle Pattern
 For example: for rows=4
                 1
                 2 3
