@@ -1,5 +1,5 @@
 /*  BRUTE FORCE
-    Time Complexicity: O(n^3) as there are 3 nested loops running each with complexicity n
+    Time Complexity: O(n^3) as there are 3 nested loops running each with complexity n
 */
 
 /*Print Maximum sum of Sub Array:
