@@ -1,5 +1,5 @@
 /* KADANE's ALGORITHM: An iterative dynamic programming algorithm. It calculates the maximum sum subarray ending at a particular position by using the maximum sum subarray ending at the previous position.
-Time Complexity: O(n) as there are 2 nested loops running each with complexity n
+Time Complexity: O(n) as there are 1 nested loops running each with complexity n
 */
 
 /* Not useful for array having all negative numbers. */
